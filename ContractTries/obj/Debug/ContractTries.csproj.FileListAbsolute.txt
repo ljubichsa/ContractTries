@@ -1,0 +1,10 @@
+D:\Work\2015\ContractTries\ContractTries\bin\Debug\ContractTries.exe.config
+D:\Work\2015\ContractTries\ContractTries\obj\Debug\ContractTries.csprojResolveAssemblyReference.cache
+D:\Work\2015\ContractTries\ContractTries\bin\Debug\ContractTries.exe
+D:\Work\2015\ContractTries\ContractTries\bin\Debug\ContractTries.pdb
+D:\Work\2015\ContractTries\ContractTries\obj\Debug\ContractTries.exe
+D:\Work\2015\ContractTries\ContractTries\obj\Debug\ContractTries.pdb
+D:\Work\2015\ContractTries\ContractTries\obj\Debug\ContractTries.rewritten
+D:\Work\2015\ContractTries\ContractTries\obj\Debug\Decl\ContractTries.exe
+D:\Work\2015\ContractTries\ContractTries\obj\Debug\Decl\ContractTries.pdb
+D:\Work\2015\ContractTries\ContractTries\obj\Debug\CodeContractAnalysisRun.log
